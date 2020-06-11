@@ -1,0 +1,7 @@
+some lib to install
+
+conda install python=3.7.0
+pip install scikit-image
+pip install keras
+conda install tensorflow
+pip install tensorflow
